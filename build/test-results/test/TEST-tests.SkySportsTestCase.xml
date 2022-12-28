@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.SkySportsTestCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-28T14:35:42" hostname="jaans-MacBook-Pro.local" time="14.662">
+  <properties/>
+  <testcase name="thisIsMySelenideTest" classname="tests.SkySportsTestCase" time="14.662"/>
+  <system-out><![CDATA[What would Chelsea be getting in Badiashile? | 'He'll need time to develop'
+Championship predictions: Pacesetters Burnley and Sheff Utd to win again?
+'Toughest year' | James set for injury layoff as Chelsea eye Juranovic
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 34830
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
